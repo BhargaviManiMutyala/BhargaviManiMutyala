@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello this is Bhargavi Mani Mutyala 👋</h1>
+<h1 align="center">Hello I am Bhargavi Mani Mutyala 👋</h1>
 
 
 
